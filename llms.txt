@@ -1,0 +1,58 @@
+# Valencia
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Amplificacion Sismica](https://valencia.mecanicadesuelos.vip/amplificacion-sismica/)
+- [Calicatas Exploratorias](https://valencia.mecanicadesuelos.vip/calicatas-exploratorias/)
+- [Cbr Vial](https://valencia.mecanicadesuelos.vip/cbr-vial/)
+- [Cimentaciones](https://valencia.mecanicadesuelos.vip/cimentaciones/)
+- [Cimentaciones Sismicas](https://valencia.mecanicadesuelos.vip/cimentaciones-sismicas/)
+- [Cimentaciones Superficiales](https://valencia.mecanicadesuelos.vip/cimentaciones-superficiales/)
+- [Clasificacion Suelos](https://valencia.mecanicadesuelos.vip/clasificacion-suelos/)
+- [Columnas Grava](https://valencia.mecanicadesuelos.vip/columnas-grava/)
+- [Compactacion Dinamica](https://valencia.mecanicadesuelos.vip/compactacion-dinamica/)
+- [Deep Soil Mixing](https://valencia.mecanicadesuelos.vip/deep-soil-mixing/)
+- [Densidad Cono Arena](https://valencia.mecanicadesuelos.vip/densidad-cono-arena/)
+- [Dilatometro](https://valencia.mecanicadesuelos.vip/dilatometro/)
+- [Drenaje Vial](https://valencia.mecanicadesuelos.vip/drenaje-vial/)
+- [Ensayo Cbr](https://valencia.mecanicadesuelos.vip/ensayo-cbr/)
+- [Ensayo Cpt](https://valencia.mecanicadesuelos.vip/ensayo-cpt/)
+- [Ensayo Proctor](https://valencia.mecanicadesuelos.vip/ensayo-proctor/)
+- [Ensayo Spt](https://valencia.mecanicadesuelos.vip/ensayo-spt/)
+- [Ensayo Triaxial](https://valencia.mecanicadesuelos.vip/ensayo-triaxial/)
+- [Ensayos In Situ](https://valencia.mecanicadesuelos.vip/ensayos-in-situ/)
+- [Estabilidad Taludes](https://valencia.mecanicadesuelos.vip/estabilidad-taludes/)
+- [Estabilizacion Cal Cemento](https://valencia.mecanicadesuelos.vip/estabilizacion-cal-cemento/)
+- [Estudio Mecanica Suelos](https://valencia.mecanicadesuelos.vip/estudio-mecanica-suelos/)
+- [Excavaciones Profundas](https://valencia.mecanicadesuelos.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneas](https://valencia.mecanicadesuelos.vip/excavaciones-subterraneas/)
+- [Exploracion](https://valencia.mecanicadesuelos.vip/exploracion/)
+- [Geomallas](https://valencia.mecanicadesuelos.vip/geomallas/)
+- [Geotecnia Vial](https://valencia.mecanicadesuelos.vip/geotecnia-vial/)
+- [Geotextiles](https://valencia.mecanicadesuelos.vip/geotextiles/)
+- [Grouting](https://valencia.mecanicadesuelos.vip/grouting/)
+- [Laboratorio](https://valencia.mecanicadesuelos.vip/laboratorio/)
+- [Licuefaccion](https://valencia.mecanicadesuelos.vip/licuefaccion/)
+- [Limites Atterberg](https://valencia.mecanicadesuelos.vip/limites-atterberg/)
+- [Mejoramiento](https://valencia.mecanicadesuelos.vip/mejoramiento/)
+- [Micropilotes](https://valencia.mecanicadesuelos.vip/micropilotes/)
+- [Microzonificacion Sismica](https://valencia.mecanicadesuelos.vip/microzonificacion-sismica/)
+- [Muestreo Inalterado](https://valencia.mecanicadesuelos.vip/muestreo-inalterado/)
+- [Muros Contencion](https://valencia.mecanicadesuelos.vip/muros-contencion/)
+- [Muros Pantalla](https://valencia.mecanicadesuelos.vip/muros-pantalla/)
+- [Permeabilidad Campo](https://valencia.mecanicadesuelos.vip/permeabilidad-campo/)
+- [Precarga](https://valencia.mecanicadesuelos.vip/precarga/)
+- [Presurometro](https://valencia.mecanicadesuelos.vip/presurometro/)
+- [Respuesta Sismica](https://valencia.mecanicadesuelos.vip/respuesta-sismica/)
+- [Sismica](https://valencia.mecanicadesuelos.vip/sismica/)
+- [Suelos Expansivos](https://valencia.mecanicadesuelos.vip/suelos-expansivos/)
+- [Taludes Y Muros](https://valencia.mecanicadesuelos.vip/taludes-y-muros/)
+- [Vibrocompactacion](https://valencia.mecanicadesuelos.vip/vibrocompactacion/)
+
+## Contact
+- Website: https://valencia.mecanicadesuelos.vip/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
